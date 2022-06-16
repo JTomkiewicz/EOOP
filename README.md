@@ -1,9 +1,7 @@
-# Object-Oriented Programming
+# Description
 
-## Description
+The lecture presents the idea of object-oriented programming in C++ and introduces object-oriented design and data abstraction, class interface, and implementation.
 
-The lecture presents object-oriented programming in C++ and introduces to object-oriented design and data abstraction, class interface, and implementation.
-
-## Project
+# Project
 
 A small project about Cruse Ship that implements several cooperating classes and testing scenarios.
